@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe" /settings:C:\git\XSAPI\Build\Microsoft.Xbox.Services.140.UnitTest\test.runsettings C:\git\XSAPI\Build\Microsoft.Xbox.Services.140.UnitTest\..\..\Binaries\Debug\Win32\Microsoft.Xbox.Services.140.UnitTest\Microsoft.Xbox.Services.140.UnitTest.dll

@@ -1,0 +1,1 @@
+robocopy /NJS /NJH /MT:16 /S /NP C:\git\forks\xbox-live-api\Include\xsapi C:\git\forks\xbox-live-samples\External\Packages\Microsoft.Xbox.Live.SDK.Cpp.UWP.2016.12.20170107.01\build\native\include\xsapi

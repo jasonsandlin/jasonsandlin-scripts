@@ -1,0 +1,1 @@
+ start "" "\\products\public\products\Developers\Visual Studio 2015\Enterprise 2015.3\vs_enterprise.exe" 

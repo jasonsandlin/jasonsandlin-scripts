@@ -1,0 +1,1 @@
+C:\git\XSAPI\TAEF\Binaries\Release\x64\TestExecution\te.exe /inproc C:\git\XSAPI\Build\Microsoft.Xbox.Services.UnitTest.140.TAEF\..\..\Binaries\Debug\x64\Microsoft.Xbox.Services.UnitTest.140.TAEF\Microsoft.Xbox.Services.UnitTest.140.TAEF.dll /select:"not(@Ignore = 1)" /name:*%1

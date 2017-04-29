@@ -1,0 +1,1 @@
+cd /d c:\git\vso\sdk.projects\developer\jasonsa
