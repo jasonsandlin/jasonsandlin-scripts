@@ -1,1 +1,1 @@
-cd /d c:\git\vso\sdk.projects\developer\jasonsa
+cd /d C:\git\work\forks\jasonsandlin-scripts\scripts
