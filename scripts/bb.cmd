@@ -1,1 +1,1 @@
-cd /d C:\git\work\forks\jasonsandlin-scripts\scripts
+cd /d C:\git\forks\jasonsandlin-scripts\scripts

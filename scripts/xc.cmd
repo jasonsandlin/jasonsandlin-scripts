@@ -1,1 +1,1 @@
-cd /d C:\git\work\forks\xup\External\xbox-live-api-csharp
+cd /d C:\git\forks\xup\External\xbox-live-api-csharp
